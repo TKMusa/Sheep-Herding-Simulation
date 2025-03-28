@@ -46,7 +46,7 @@ class PsuedoSheep():
     ALIGNMENT_DIST = 5.0
     COHESSION_DIST = 3.0
 
-    ##Weight modifieres (0.0 - 1.0)
+    ##Weight/Strength modifieres
     SEPARATION_WEIGHT = 1.0
     BORDER_WEIGHT= 5.0
     ALIGNMENT_WEIGHT = 0.3
